@@ -1,16 +1,56 @@
-# React + Vite
+# 🐧 PengKowts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Your personal sanctuary for wisdom and inspiration.**
 
-Currently, two official plugins are available:
+PengKowts is a modern, privacy-first quote management application designed for mindful reading. It features a curated collection of over 2,000 quotes across 20 distinct categories, allowing users to find wisdom, motivation, and comfort without distractions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[**🚀 View Live Demo**](https://JreyForFun.github.io/PengKowts/)
 
-## React Compiler
+![Wise Penguin Icon](/public/favicon.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **📚 Massive Library**: Explore over **2,000 curated quotes** categorised into Love, Wisdom, Science, Philosophy, and more.
+- **🧘 Mindful UI**: A beautiful, distraction-free interface designed with a soft, premium "Plum Blossom" inspired palette.
+- **💾 Privacy-First & Local**: **No login required.** All your favorites, personal quotes, and collections are stored securely in your browser's `localStorage`.
+- **✍️ Create & Manage**: Add your own personal quotes to the library.
+- **📥 Import / Export**: Backup your data or transfer it to another device using the JSON import/export feature.
+- **🔍 Explore & Filter**: Powerful filtering and sorting (Recent, Most Liked, Random Shuffle).
+- **📱 Fully Responsive**: Optimized for a seamless experience on both desktop and mobile devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Framework**: React 19 + Vite
+- **Styling**: Vanilla CSS (Variables & Responsive Design), Lucide React Icons
+- **Deployment**: GitHub Pages
+- **Data Persistence**: LocalStorage API
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/JreyForFun/PengKowts.git
+    cd PengKowts
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Run the development server**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Build for production**
+    ```bash
+    npm run build
+    ```
+
+## 📄 License
+
+Open Source.
+© 2025 PengKowts. Crafted by **Jrey - InnovaREV**.
